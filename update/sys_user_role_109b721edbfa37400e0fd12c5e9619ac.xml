@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_alimo_iplookup.ipaddressinfo_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>ipaddressinfo_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>SCHMIDC</sys_created_by>
+        <sys_created_on>2019-07-24 21:05:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>109b721edbfa37400e0fd12c5e9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_alimo_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_alimo_iplookup">ac87aad6dbba37400e0fd12c5e9619bb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPLookup">ac87aad6dbba37400e0fd12c5e9619bb</sys_scope>
+        <sys_update_name>sys_user_role_109b721edbfa37400e0fd12c5e9619ac</sys_update_name>
+        <sys_updated_by>SCHMIDC</sys_updated_by>
+        <sys_updated_on>2019-07-24 21:05:47</sys_updated_on>
+        <u_azl_approver>false</u_azl_approver>
+        <u_azl_createnow_fulfiller>false</u_azl_createnow_fulfiller>
+        <u_azl_itsa_fulfiller>false</u_azl_itsa_fulfiller>
+        <u_azl_role_type/>
+        <u_azl_sn_aligned>false</u_azl_sn_aligned>
+        <u_grants_access_to_ci/>
+        <u_sn_approver>false</u_sn_approver>
+        <u_sn_createnow_fulfiller>false</u_sn_createnow_fulfiller>
+        <u_sn_itsa_fulfiller>false</u_sn_itsa_fulfiller>
+        <u_sn_role_source/>
+        <u_sn_role_type/>
+    </sys_user_role>
+</record_update>
